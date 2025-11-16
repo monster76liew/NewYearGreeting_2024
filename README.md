@@ -29,5 +29,30 @@ The greeting centers around a sparkling heart — symbolizing warmth, renewal, a
 
 ---
 
-## 📁 File Structure
-# NewYearGreeting_2024
+
+---
+
+## 🔒 License
+
+This greeting is shared under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+
+> You may view and share this work with attribution, but you may not modify or use it commercially.
+
+---
+
+## 🌟 Why This Matters
+
+Design is more than decoration — it’s a language of emotion, culture, and connection. This greeting is part of my broader portfolio of emotionally intelligent systems, including:
+
+- [Emution – Mood Analytics Landing Page](https://github.com/monster76liew/Emution-landing-page)
+- [Mentorship Tracker](https://github.com/monster76liew/mentorship-tracker)
+
+---
+
+## 🤝 Connect
+
+If you’re interested in emotionally intelligent design, behavioral systems, or cultural tech, let’s connect:
+
+- 🌐 GitHub: [github.com/monster76liew](https://github.com/monster76liew)
+- 💌 Email: monster76liew@gmail.com
+- 🧠 LinkedIn: [linkedin.com/in/liewchongsing](https://linkedin.com/in/liewchongsing)
