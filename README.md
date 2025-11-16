@@ -1,4 +1,4 @@
-# 🧧 Chinese New Year Greeting – “New Hope” Edition
+# ✍️ New Year Greeting – “New Hope” Edition
 
 This project features a heartfelt greeting card designed to celebrate Chinese New Year with boldness, bravery, and authenticity. Created using Canva and animated into an MP4 format, the design blends cultural symbolism with emotional resonance — a reflection of my creative philosophy and leadership style.
 
